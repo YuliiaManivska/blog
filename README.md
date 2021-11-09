@@ -1,24 +1,17 @@
-# README
+# Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Blog is a simple web application.
 
-Things you may want to cover:
+[Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html#updating-an-article)
 
-* Ruby version
+## Installation
 
-* System dependencies
+[Install Ruby](https://www.ruby-lang.org/en/downloads/)
 
-* Configuration
+```bash
+git clone https://github.com/mariadenadel/blog.git
+cd blog
+bin/rails server
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Go to [Blog](http://127.0.0.1:3000/)
