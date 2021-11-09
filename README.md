@@ -11,6 +11,9 @@ Blog is a simple web application.
 ```bash
 git clone https://github.com/mariadenadel/blog.git
 cd blog
+bin/rails db:migrate
+bundler install
+npm install
 bin/rails server
 ```
 
