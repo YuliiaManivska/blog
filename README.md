@@ -2,7 +2,7 @@
 
 Blog is a simple web application.
 
-[Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html#updating-an-article)
+[Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
 
 ## Installation
 
